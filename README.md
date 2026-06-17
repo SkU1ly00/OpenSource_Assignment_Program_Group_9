@@ -217,6 +217,13 @@ git push origin development     # Push development branch
 - Access control verification on all pages
 - Activity logging for audit trails
 
+### Additional Security Recommendations
+- Use strong passwords for all user accounts.
+- Change default credentials immediately after installation.
+- Regularly back up the incident database.
+- Enable HTTPS in production environments.
+- Keep PHP, MySQL, and server software updated with security patches.
+
 ## System Requirements
 - **PHP**: 7.4 or higher
 - **MySQL**: 5.7 or higher
