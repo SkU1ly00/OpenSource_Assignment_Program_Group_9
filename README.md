@@ -300,3 +300,4 @@ This project is provided for educational purposes under the course requirements 
 ## Contribution by Angela Muro
 I contributed by improving the security features documentation and enhancing the clarity of the README file. I followed the Git workflow by working on a feature branch and submitting my changes through a pull request for review
 
+Testing section added
