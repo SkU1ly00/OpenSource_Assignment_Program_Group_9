@@ -1,0 +1,55 @@
+# Configuration files
+config/config.php
+
+# Sensitive information
+.env
+.env.local
+.env.*.local
+
+# User uploads
+uploads/*
+!uploads/.gitkeep
+
+# Logs
+logs/*
+!logs/.gitkeep
+
+# Cache
+.cache/
+*.cache
+
+# OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# IDE files
+.project
+.classpath
+*.sublime-workspace
+*.sublime-project
+
+# Node modules (if using node)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Composer
+vendor/
+composer.lock
+
+# Database backups
+*.sql.bak
+*.sql.zip
+
+# Temporary files
+*.tmp
+*.temp
+
+# Session files
+session/*
+!session/.gitkeep
